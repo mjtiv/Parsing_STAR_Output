@@ -1,0 +1,8 @@
+Parameter File (Tab delimited input file)	
+Name of STAR 1st Pass Stats File:	Step_1_Sample_1_Pass_Log.final.out
+Name of STAR 2nd Pass Stats File:	Step_1_Sample_2nd_Pass_Log.final.out
+DIRECTORIES:
+The directory locations are seperated by spaces and located on the same line or use backslash to continue
+Directory Locations:	/work/mjtiv/Chicken_Projects/Wooden_Breast_Project/Wooden_Breast_C_Liver/WB_Liver_Samples_VCF_Files_Round_I \ /work/mjtiv/Chicken_Projects/Wooden_Breast_Project/Wooden_Breast_C_Dataset_2_Breast_Muscle/WBD_BM_Samples_VCF_Files_Round_I \
+/work/mjtiv/Chicken_Projects/Wooden_Breast_Project/Wooden_Breast_C_Dataset_1_Breast_Muscle/WBD_BM_C_Dataset_1_VCF_Files_Round_1 \
+/work/mjtiv/Chicken_Projects/Wooden_Breast_Project/Wooden_Breast_B_and_BCD_Breast_Muscle/WB_B_BCD_Samples_VCF_Files_Round_I
